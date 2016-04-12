@@ -1,0 +1,6 @@
+To run
+npm i && npm start
+open http://localhost:3000
+
+You can specify how much rows it render with query params (default to 50)
+eg: http://localhost:3000/?rows=5000
